@@ -15,14 +15,19 @@ http://iptv2077.com:80/play/live.php?mac=00:1A:79:C6:20:7D&stream=683098&extensi
 https://epg.pw/stream/e0f90805dad73aa20dea9d28033c5eb9062117b1eb683938048ddea3f16486a3.ctv
 #EXTINF:-1  tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/2498aa1ffc66cf53f77c63b77a787d3a.png" group-title="NASIONAL TV", GTV
 http://iptv2077.com:80/play/live.php?mac=00:1A:79:C6:20:7D&stream=683121&extension=ts&play_token=GVZS088tcf 
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/main/logo%20fmx/INDOSIAR%20SD-FirstMedia-Chl-11.jpg" group-title="NASIONAL TV", INDOSIAR
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/main/logo%20fmx/INDOSIAR%20SD-FirstMedia-Chl-11.jpg" group-title="NASIONAL TV", INDOSIAR HD
 #http://iptv2077.com:80/play/live.php?mac=00:1A:79:C6:20:7D&stream=994885&extension=ts&play_token=GVZS088tcf
 https://epg.pw/stream/d99a0eae7b8fa1489d3848e7a58ac62e05fc29cd951a5d5a685e9bcf583d8368.ctv
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="NASIONAL TV", INDOSIAR HD
-https://mantul.biz.id:443/ekos/748382/60
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="NASIONAL TV", SCTV HD
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/main/logo%20fmx/INDOSIAR%20SD-FirstMedia-Chl-11.jpg" group-title="NASIONAL TV", INDOSIAR
+#https://mantul.biz.id:443/ekos/748382/60
+https://epg.pw/stream/880921219372ea03e78ba18fee0e0572ed49613775d512e0ed5c0a9f0590413c.ctv
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/main/logo%20fmx/SCTV%20SD-FirstMedia-Chl-10.jpg" group-title="NASIONAL TV", SCTV HD
+https://epg.pw/stream/a4a14a7727d20a72f6555b4d1d9333d84ebf9509945df0eac9371043b8893822.ctv
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/main/logo%20fmx/SCTV%20SD-FirstMedia-Chl-10.jpg" group-title="NASIONAL TV", SCTV
 https://mantul.biz.id:443/ekos/748382/32
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="NASIONAL TV", MOJI HD
+#EXTINF:-1  tvg-logo="https://thumbor.prod.vidiocdn.com/IqMLuNYRctFDNNJlQjuu81ATuSE=/372x211/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-5955b6.jpg" group-title="NASIONAL TV", MOJI HD
+https://epg.pw/stream/9d3672bbe383ad000d80362ba143a322bbee8182887dcc065ef677f6570594c3.m3u8
+#EXTINF:-1  tvg-logo="https://thumbor.prod.vidiocdn.com/IqMLuNYRctFDNNJlQjuu81ATuSE=/372x211/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-5955b6.jpg" group-title="NASIONAL TV", MOJI
 http://iptvtree.net:8080/onestream/j4DvYuVxCA27Zmg3hPyXRa/298550
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="NASIONAL TV", KOMPAS TV
 http://iptv2077.com:80/play/live.php?mac=00:1A:79:C6:20:7D&stream=683194&extension=ts&play_token=GVZS088tcf 
