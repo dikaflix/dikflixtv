@@ -7,149 +7,149 @@ http://iptv2077.com:80/play/live.php?mac=00:1A:79:C6:20:7D&stream=926161&extensi
 #EXTINF:-1 tvg-logo="https://media.vivagoal.com/2023/11/Filipina-vs-Indonesia.jpg" group-title="LIVE TIMNAS", SERVER 2
 http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=926161&extension=ts&play_token=GVZS088tcf
 
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="NASIONAL", RCTI
+#EXTINF:-1  tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/c663544b47ae275f4dd77540e62e0ef4.png" group-title="NASIONAL TV", RCTI
 http://iptv2077.com:80/play/live.php?mac=00:1A:79:C6:20:7D&stream=683099&extension=ts&play_token=GVZS088tcf 
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="NASIONAL", MNC TV
+#EXTINF:-1  tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/12cf417a2f27f6bd0cdc7e212859dfe1.png" group-title="NASIONAL TV", MNC TV
 http://iptv2077.com:80/play/live.php?mac=00:1A:79:C6:20:7D&stream=683098&extension=ts&play_token=GVZS088tcf 
-#EXTINF:-1 group-title="NASIONAL" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/12cf417a2f27f6bd0cdc7e212859dfe1.png", MNC TV HD
+#EXTINF:-1 group-title="NASIONAL TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/12cf417a2f27f6bd0cdc7e212859dfe1.png", MNC TV HD
 https://epg.pw/stream/e0f90805dad73aa20dea9d28033c5eb9062117b1eb683938048ddea3f16486a3.ctv
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="NASIONAL", GTV
+#EXTINF:-1  tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/2498aa1ffc66cf53f77c63b77a787d3a.png" group-title="NASIONAL TV", GTV
 http://iptv2077.com:80/play/live.php?mac=00:1A:79:C6:20:7D&stream=683121&extension=ts&play_token=GVZS088tcf 
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="NASIONAL", INDOSIAR
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="NASIONAL TV", INDOSIAR
 http://iptv2077.com:80/play/live.php?mac=00:1A:79:C6:20:7D&stream=994885&extension=ts&play_token=GVZS088tcf
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="NASIONAL", INDOSIAR HD
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="NASIONAL TV", INDOSIAR HD
 https://mantul.biz.id:443/ekos/748382/60
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="NASIONAL", SCTV HD
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="NASIONAL TV", SCTV HD
 https://mantul.biz.id:443/ekos/748382/32
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="NASIONAL", MOJI HD
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="NASIONAL TV", MOJI HD
 http://iptvtree.net:8080/onestream/j4DvYuVxCA27Zmg3hPyXRa/298550
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="NASIONAL", KOMPAS TV
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="NASIONAL TV", KOMPAS TV
 http://iptv2077.com:80/play/live.php?mac=00:1A:79:C6:20:7D&stream=683194&extension=ts&play_token=GVZS088tcf 
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="NASIONAL", ANTV
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="NASIONAL TV", ANTV
 http://iptv2077.com:80/play/live.php?mac=00:1A:79:C6:20:7D&stream=683153&extension=ts&play_token=GVZS088tcf
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="NASIONAL", TRANS 7
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="NASIONAL TV", TRANS 7
 http://iptv2077.com:80/play/live.php?mac=00:1A:79:C6:20:7D&stream=683116&extension=ts&play_token=GVZS088tcf
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="NASIONAL", TRANS TV
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="NASIONAL TV", TRANS TV
 http://iptv2077.com:80/play/live.php?mac=00:1A:79:C6:20:7D&stream=683100&extension=ts&play_token=GVZS088tcf
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="NASIONAL", TV One
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="NASIONAL TV", TV One
 http://iptv2077.com:80/play/live.php?mac=00:1A:79:C6:20:7D&stream=683101&extension=ts&play_token=GVZS088tcf 
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="NASIONAL", Metro TV
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="NASIONAL TV", Metro TV
 http://iptv2077.com:80/play/live.php?mac=00:1A:79:C6:20:7D&stream=683181&extension=ts&play_token=GVZS088tcf 
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="NASIONAL", Net TV
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="NASIONAL TV", Net TV
 http://iptv2077.com:80/play/live.php?mac=00:1A:79:C6:20:7D&stream=683093&extension=ts&play_token=GVZS088tcf 
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="NASIONAL", Rajawali TV
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="NASIONAL TV", Rajawali TV
 http://iptv2077.com:80/play/live.php?mac=00:1A:79:C6:20:7D&stream=683095&extension=ts&play_token=GVZS088tcf 
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="NASIONAL", OK TV
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="NASIONAL TV", OK TV
 http://iptv2077.com:80/play/live.php?mac=00:1A:79:C6:20:7D&stream=683105&extension=ts&play_token=GVZS088tcf 
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="NASIONAL", Jak TV
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="NASIONAL TV", Jak TV
 http://iptv2077.com:80/play/live.php?mac=00:1A:79:C6:20:7D&stream=683180&extension=ts&play_token=GVZS088tcf 
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="NASIONAL", JTV
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="NASIONAL TV", JTV
 http://iptv2077.com:80/play/live.php?mac=00:1A:79:C6:20:7D&stream=683115&extension=ts&play_token=GVZS088tcf 
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="NASIONAL", Berita Satu
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="NASIONAL TV", Berita Satu
 http://iptv2077.com:80/play/live.php?mac=00:1A:79:C6:20:7D&stream=683182&extension=ts&play_token=GVZS088tcf
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="NASIONAL", Entertainment
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="NASIONAL TV", Entertainment
 http://iptv2077.com:80/play/live.php?mac=00:1A:79:C6:20:7D&stream=683188&extension=ts&play_token=GVZS088tcf
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="NASIONAL", TVRI
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="NASIONAL TV", TVRI
 http://iptv2077.com:80/play/live.php?mac=00:1A:79:C6:20:7D&stream=683195&extension=ts&play_token=GVZS088tcf
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="NASIONAL", CNN Indonesia
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="NASIONAL TV", CNN Indonesia
 http://iptv2077.com:80/play/live.php?mac=00:1A:79:C6:20:7D&stream=683195&extension=ts&play_token=GVZS088tcf
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="NASIONAL", Infotainment
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="NASIONAL TV", Infotainment
 http://iptv2077.com:80/play/live.php?mac=00:1A:79:C6:20:7D&stream=683126&extension=ts&play_token=GVZS088tcf
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="NASIONAL", Vision Prime
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="NASIONAL TV", Vision Prime
 http://iptv2077.com:80/play/live.php?mac=00:1A:79:C6:20:7D&stream=683124&extension=ts&play_token=GVZS088tcf
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="NASIONAL", MTA TV
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="NASIONAL TV", MTA TV
 http://iptv2077.com:80/play/live.php?mac=00:1A:79:C6:20:7D&stream=683103&extension=ts&play_token=GVZS088tcf
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="NASIONAL", ONE
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="NASIONAL TV", ONE
 http://iptv2077.com:80/play/live.php?mac=00:1A:79:C6:20:7D&stream=683130&extension=ts&play_token=GVZS088tcf
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="NASIONAL", KIX
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="NASIONAL TV", KIX
 http://iptv2077.com:80/play/live.php?mac=00:1A:79:C6:20:7D&stream=683134&extension=ts&play_token=GVZS088tcf
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="NASIONAL", Celestial Movies
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="NASIONAL TV", Celestial Movies
 http://iptv2077.com:80/play/live.php?mac=00:1A:79:C6:20:7D&stream=683142&extension=ts&play_token=GVZS088tcf
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="NASIONAL", CCM
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="NASIONAL TV", CCM
 http://iptv2077.com:80/play/live.php?mac=00:1A:79:C6:20:7D&stream=683110&extension=ts&play_token=GVZS088tcf
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="NASIONAL", TVN Movies
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="NASIONAL TV", TVN Movies
 http://iptv2077.com:80/play/live.php?mac=00:1A:79:C6:20:7D&stream=683149&extension=ts&play_token=GVZS088tcf
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="NASIONAL", TVN
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="NASIONAL TV", TVN
 http://iptv2077.com:80/play/live.php?mac=00:1A:79:C6:20:7D&stream=683148&extension=ts&play_token=GVZS088tcf
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="NASIONAL", Thrill
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="NASIONAL TV", Thrill
 http://iptv2077.com:80/play/live.php?mac=00:1A:79:C6:20:7D&stream=683154&extension=ts&play_token=GVZS088tcf
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="NASIONAL", CinemaWorld
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="NASIONAL TV", CinemaWorld
 http://iptv2077.com:80/play/live.php?mac=00:1A:79:C6:20:7D&stream=683146&extension=ts&play_token=GVZS088tcf
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="NASIONAL", Hits
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="NASIONAL TV", Hits
 http://iptv2077.com:80/play/live.php?mac=00:1A:79:C6:20:7D&stream=683145&extension=ts&play_token=GVZS088tcf
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="NASIONAL", Hits Movies
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="NASIONAL TV", Hits Movies
 http://iptv2077.com:80/play/live.php?mac=00:1A:79:C6:20:7D&stream=683163&extension=ts&play_token=GVZS088tcf
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="NASIONAL", Zee Bioskop
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="NASIONAL TV", Zee Bioskop
 http://iptv2077.com:80/play/live.php?mac=00:1A:79:C6:20:7D&stream=683155&extension=ts&play_token=GVZS088tcf
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="NASIONAL", My Cinema
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="NASIONAL TV", My Cinema
 http://iptv2077.com:80/play/live.php?mac=00:1A:79:C6:20:7D&stream=683152&extension=ts&play_token=GVZS088tcf
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="NASIONAL", My Cinema Asia
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="NASIONAL TV", My Cinema Asia
 http://iptv2077.com:80/play/live.php?mac=00:1A:79:C6:20:7D&stream=683151&extension=ts&play_token=GVZS088tcf
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="NASIONAL", My Family Cinema 
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="NASIONAL TV", My Family Cinema 
 http://iptv2077.com:80/play/live.php?mac=00:1A:79:C6:20:7D&stream=683150&extension=ts&play_token=GVZS088tcf
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="NASIONAL", Cinemachi Extra
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="NASIONAL TV", Cinemachi Extra
 http://iptv2077.com:80/play/live.php?mac=00:1A:79:C6:20:7D&stream=683161&extension=ts&play_token=GVZS088tcf
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="NASIONAL", Cinemachi Max
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="NASIONAL TV", Cinemachi Max
 http://iptv2077.com:80/play/live.php?mac=00:1A:79:C6:20:7D&stream=683173&extension=ts&play_token=GVZS088tcf
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="NASIONAL", Cinemachi Kids
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="NASIONAL TV", Cinemachi Kids
 http://iptv2077.com:80/play/live.php?mac=00:1A:79:C6:20:7D&stream=683085&extension=ts&play_token=GVZS088tcf
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="NASIONAL", XingkongTV
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="NASIONAL TV", XingkongTV
 http://iptv2077.com:80/play/live.php?mac=00:1A:79:C6:20:7D&stream=683147&extension=ts&play_token=GVZS088tcf
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="NASIONAL", Rock Action
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="NASIONAL TV", Rock Action
 http://iptv2077.com:80/play/live.php?mac=00:1A:79:C6:20:7D&stream=683147&extension=ts&play_token=GVZS088tcf
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="NASIONAL", Paramount Network
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="NASIONAL TV", Paramount Network
 http://iptv2077.com:80/play/live.php?mac=00:1A:79:C6:20:7D&stream=683174&extension=ts&play_token=GVZS088tcf
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="NASIONAL", Animax
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="NASIONAL TV", Animax
 http://iptv2077.com:80/play/live.php?mac=00:1A:79:C6:20:7D&stream=683165&extension=ts&play_token=GVZS088tcf
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="NASIONAL", MKidZ
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="NASIONAL TV", MKidZ
 http://iptv2077.com:80/play/live.php?mac=00:1A:79:C6:20:7D&stream=683156&extension=ts&play_token=GVZS088tcf
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="NASIONAL", Baby TV
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="NASIONAL TV", Baby TV
 http://iptv2077.com:80/play/live.php?mac=00:1A:79:C6:20:7D&stream=683167&extension=ts&play_token=GVZS088tcf
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="NASIONAL", Kids TV
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="NASIONAL TV", Kids TV
 http://iptv2077.com:80/play/live.php?mac=00:1A:79:C6:20:7D&stream=683166&extension=ts&play_token=GVZS088tcf
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="NASIONAL", ZooMoo
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="NASIONAL TV", ZooMoo
 http://iptv2077.com:80/play/live.php?mac=00:1A:79:C6:20:7D&stream=683172&extension=ts&play_token=GVZS088tcf
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="NASIONAL", DreamWorks
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="NASIONAL TV", DreamWorks
 http://iptv2077.com:80/play/live.php?mac=00:1A:79:C6:20:7D&stream=683171&extension=ts&play_token=GVZS088tcf
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="NASIONAL", Nickelodeon
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="NASIONAL TV", Nickelodeon
 http://iptv2077.com:80/play/live.php?mac=00:1A:79:C6:20:7D&stream=683175&extension=ts&play_token=GVZS088tcf
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="NASIONAL", AXN
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="NASIONAL TV", AXN
 http://iptv2077.com:80/play/live.php?mac=00:1A:79:C6:20:7D&stream=683144&extension=ts&play_token=GVZS088tcf
-#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_14.png", IMC
+#EXTINF:-1 group-title="NASIONAL TV" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_14.png", IMC
 https://epg.pw/stream/f64076e9ddba6ee90f8abb04ba685c27ec273a4ba5f4d21d3ac5e258f1b604d1.ctv
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="NASIONAL", OKEZONE TV
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="NASIONAL TV", OKEZONE TV
 http://iptv2077.com:80/play/live.php?mac=00:1A:79:C6:20:7D&stream=683128&extension=ts&play_token=GVZS088tcf
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="NASIONAL", Lifetime
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="NASIONAL TV", Lifetime
 http://iptv2077.com:80/play/live.php?mac=00:1A:79:C6:20:7D&stream=683129&extension=ts&play_token=GVZS088tcf
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="NASIONAL", Life
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="NASIONAL TV", Life
 http://iptv2077.com:80/play/live.php?mac=00:1A:79:C6:20:7D&stream=683125&extension=ts&play_token=GVZS088tcf
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="NASIONAL", TV 9 Nusantara
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="NASIONAL TV", TV 9 Nusantara
 http://iptv2077.com:80/play/live.php?mac=00:1A:79:C6:20:7D&stream=683196&extension=ts&play_token=GVZS088tcf
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="NASIONAL", FMN
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="NASIONAL TV", FMN
 http://iptv2077.com:80/play/live.php?mac=00:1A:79:C6:20:7D&stream=683143&extension=ts&play_token=GVZS088tcf
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="NASIONAL", SpoTV
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="NASIONAL TV", SpoTV
 http://iptv2077.com:80/play/live.php?mac=00:1A:79:C6:20:7D&stream=683117&extension=ts&play_token=GVZS088tcf
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="NASIONAL", SPORTSTAR
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="NASIONAL TV", SPORTSTAR
 http://iptv2077.com:80/play/live.php?mac=00:1A:79:C6:20:7D&stream=683133&extension=ts&play_token=GVZS088tcf
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="NASIONAL", BEIN SPORT
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="NASIONAL TV", BEIN SPORT
 http://iptv2077.com:80/play/live.php?mac=00:1A:79:C6:20:7D&stream=683139&extension=ts&play_token=GVZS088tcf
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="NASIONAL", BEIN SPORT 2
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="NASIONAL TV", BEIN SPORT 2
 http://iptv2077.com:80/play/live.php?mac=00:1A:79:C6:20:7D&stream=683138&extension=ts&play_token=GVZS088tcf
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="NASIONAL", Fight Sport
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="NASIONAL TV", Fight Sport
 http://iptv2077.com:80/play/live.php?mac=00:1A:79:C6:20:7D&stream=683135&extension=ts&play_token=GVZS088tcf
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="NASIONAL", MNC News
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="NASIONAL TV", MNC News
 http://iptv2077.com:80/play/live.php?mac=00:1A:79:C6:20:7D&stream=683193&extension=ts&play_token=GVZS088tcf
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="NASIONAL", Bandung TV
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="NASIONAL TV", Bandung TV
 http://iptv2077.com:80/play/live.php?mac=00:1A:79:C6:20:7D&stream=683107&extension=ts&play_token=GVZS088tcf
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="NASIONAL", Tawaf TV
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="NASIONAL TV", Tawaf TV
 http://iptv2077.com:80/play/live.php?mac=00:1A:79:C6:20:7D&stream=683106&extension=ts&play_token=GVZS088tcf
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="NASIONAL", Muslim TV
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="NASIONAL TV", Muslim TV
 http://iptv2077.com:80/play/live.php?mac=00:1A:79:C6:20:7D&stream=683103&extension=ts&play_token=GVZS088tcf
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="NASIONAL", QURAN KARIM TV
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="NASIONAL TV", QURAN KARIM TV
 http://iptv2077.com:80/play/live.php?mac=00:1A:79:C6:20:7D&stream=683106&extension=ts&play_token=GVZS088tcf
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="NASIONAL", Love Nature
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="NASIONAL TV", Love Nature
 http://iptv2077.com:80/play/live.php?mac=00:1A:79:C6:20:7D&stream=683089&extension=ts&play_token=GVZS088tcf
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="NASIONAL", OUTDOOR
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="NASIONAL TV", OUTDOOR
 http://iptv2077.com:80/play/live.php?mac=00:1A:79:C6:20:7D&stream=683086&extension=ts&play_token=GVZS088tcf
 
 
