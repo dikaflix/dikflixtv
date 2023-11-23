@@ -31,15 +31,23 @@ https://mantul.biz.id:443/ekos/748382/32
 https://epg.pw/stream/9d3672bbe383ad000d80362ba143a322bbee8182887dcc065ef677f6570594c3.m3u8
 #EXTINF:-1  tvg-logo="https://thumbor.prod.vidiocdn.com/IqMLuNYRctFDNNJlQjuu81ATuSE=/372x211/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-5955b6.jpg" group-title="NASIONAL TV", MOJI
 http://iptvtree.net:8080/onestream/j4DvYuVxCA27Zmg3hPyXRa/298550
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="NASIONAL TV", KOMPAS TV
+#EXTINF:-1  tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_106.png" group-title="NASIONAL TV", KOMPAS TV SD
+https://epg.pw/stream/c516cf520bf167c47eccbf57b296e5e2d72496287800eb6a246e693c82136dd2.ctv
+#EXTINF:-1  tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_106.png" group-title="NASIONAL TV", KOMPAS TV
 http://iptv2077.com:80/play/live.php?mac=00:1A:79:C6:20:7D&stream=683194&extension=ts&play_token=GVZS088tcf 
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="NASIONAL TV", ANTV
+#EXTINF:-1  tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_115.png" group-title="NASIONAL TV", ANTV HD
+https://epg.pw/stream/5d9a43328f017cb589d78fc7eb4d46a9eca2ca1ed4dd89e988f13321d9000c65.ctv
+#EXTINF:-1  tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_115.png" group-title="NASIONAL TV", ANTV
 http://iptv2077.com:80/play/live.php?mac=00:1A:79:C6:20:7D&stream=683153&extension=ts&play_token=GVZS088tcf
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="NASIONAL TV", TRANS 7
+#EXTINF:-1  tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_110.png" group-title="NASIONAL TV", TRANS 7 HD
+https://epg.pw/stream/c08f8f5f45e3cf642d3a34d5b697b553c1541a8b475caf7bf85f8fbc3b385d06.ctv
+#EXTINF:-1  tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_110.png" group-title="NASIONAL TV", TRANS 7
 http://iptv2077.com:80/play/live.php?mac=00:1A:79:C6:20:7D&stream=683116&extension=ts&play_token=GVZS088tcf
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="NASIONAL TV", TRANS TV
+#EXTINF:-1  tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_87.png" group-title="NASIONAL TV", TRANS TV HD
+https://epg.pw/stream/fee9bd43ab0218dcdf80469c3ccba8774daa8c3fee1799b44c2e24c42a4e058b.ctv
+#EXTINF:-1  tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_87.png" group-title="NASIONAL TV", TRANS TV
 http://iptv2077.com:80/play/live.php?mac=00:1A:79:C6:20:7D&stream=683100&extension=ts&play_token=GVZS088tcf
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="NASIONAL TV", TV One
+#EXTINF:-1  tvg-logo="https://www.mncvision.id/userfiles/image/channel/tvone.png" group-title="NASIONAL TV", TV One
 http://iptv2077.com:80/play/live.php?mac=00:1A:79:C6:20:7D&stream=683101&extension=ts&play_token=GVZS088tcf 
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="NASIONAL TV", Metro TV
 http://iptv2077.com:80/play/live.php?mac=00:1A:79:C6:20:7D&stream=683181&extension=ts&play_token=GVZS088tcf 
