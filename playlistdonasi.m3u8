@@ -49,12 +49,18 @@ https://epg.pw/stream/fee9bd43ab0218dcdf80469c3ccba8774daa8c3fee1799b44c2e24c42a
 http://iptv2077.com:80/play/live.php?mac=00:1A:79:C6:20:7D&stream=683100&extension=ts&play_token=GVZS088tcf
 #EXTINF:-1  tvg-logo="https://www.mncvision.id/userfiles/image/channel/tvone.png" group-title="NASIONAL TV", TV One
 http://iptv2077.com:80/play/live.php?mac=00:1A:79:C6:20:7D&stream=683101&extension=ts&play_token=GVZS088tcf 
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="NASIONAL TV", Metro TV
+#EXTINF:-1  tvg-logo="https://www.mncvision.id/userfiles/image/channel/metro_tv.png" group-title="NASIONAL TV", Metro TV
 http://iptv2077.com:80/play/live.php?mac=00:1A:79:C6:20:7D&stream=683181&extension=ts&play_token=GVZS088tcf 
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="NASIONAL TV", Net TV
+#EXTINF:-1  tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_116.jpg" group-title="NASIONAL TV", Net TV HD
+https://epg.pw/stream/64c856dec29d8867c215ea1a8fecf7c56e1d3e5765f73831e0ac12ebccf8df56.ctv
+#EXTINF:-1  tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_116.jpg" group-title="NASIONAL TV", Net TV
 http://iptv2077.com:80/play/live.php?mac=00:1A:79:C6:20:7D&stream=683093&extension=ts&play_token=GVZS088tcf 
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="NASIONAL TV", Rajawali TV
+#EXTINF:-1  tvg-logo="https://static.mncnow.id/images/channel/79b8e2c9-bdb.png" group-title="NASIONAL TV", Rajawali TV
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel%2841869351-4a9c-4e57-b54b-8cf5dfc919e1%29/index.m3u8
+#EXTINF:-1  tvg-logo="https://static.mncnow.id/images/channel/79b8e2c9-bdb.png" group-title="NASIONAL TV", RTV
 http://iptv2077.com:80/play/live.php?mac=00:1A:79:C6:20:7D&stream=683095&extension=ts&play_token=GVZS088tcf 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/pTypkfGy/mentari.png" group-title="NASIONAL TV", Mentari TV
+http://103.166.27.2:8112/play/a018/index.m3u8
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="NASIONAL TV", OK TV
 http://iptv2077.com:80/play/live.php?mac=00:1A:79:C6:20:7D&stream=683105&extension=ts&play_token=GVZS088tcf 
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="NASIONAL TV", Jak TV
