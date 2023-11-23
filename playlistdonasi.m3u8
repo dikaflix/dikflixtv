@@ -187,8 +187,10 @@ http://iptv2077.com:80/play/live.php?mac=00:1A:79:C6:20:7D&stream=683125&extensi
 http://iptv2077.com:80/play/live.php?mac=00:1A:79:C6:20:7D&stream=683196&extension=ts&play_token=GVZS088tcf
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="NASIONAL TV", FMN
 http://iptv2077.com:80/play/live.php?mac=00:1A:79:C6:20:7D&stream=683143&extension=ts&play_token=GVZS088tcf
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="NASIONAL TV", SpoTV
+#EXTINF:-1  tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_307.png" group-title="NASIONAL TV", SpoTV
 http://iptv2077.com:80/play/live.php?mac=00:1A:79:C6:20:7D&stream=683117&extension=ts&play_token=GVZS088tcf
+#EXTINF:-1  tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_307.png" group-title="NASIONAL TV", SpoTV 2
+https://epg.pw/stream/6163f57387ea31c09f2c05a364a2d9a909e2456a6d40854caff5be39dcfd6377.ctv
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="NASIONAL TV", SPORTSTAR
 http://iptv2077.com:80/play/live.php?mac=00:1A:79:C6:20:7D&stream=683133&extension=ts&play_token=GVZS088tcf
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="NASIONAL TV", BEIN SPORT
